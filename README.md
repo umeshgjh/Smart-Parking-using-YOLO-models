@@ -21,7 +21,7 @@ The primary objective of this project is to assess the performance of different 
 1. **Installation**:
    - Clone the repository:
      ```bash
-     git clone https://github.com/your-username/parking-space-monitoring.git
+     git clone https: https://github.com/umeshgjh/Smart-Parking-using-YOLO-models
      ```
 2. **Evaluation**:
    - Run scripts to evaluate different YOLO models on parking vacancy detection.
